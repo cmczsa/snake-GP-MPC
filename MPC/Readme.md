@@ -32,3 +32,7 @@ __4. Fitrgp Files__
 __5. Other Files__
 
 .mat and .xlsx files are the trained models and the computed data.
+
+# More MPC Examples
+
+If you want to learn more examples about casADi and MPC, please browse my another repository "".
