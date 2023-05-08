@@ -17,3 +17,7 @@ __Fitrgp files__
 "ObjFunc.m"
 
 "NonLinearCons.m"
+
+__other files__
+
+.mat and .xlsx files are the trained models and the computed data.
