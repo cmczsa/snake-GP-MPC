@@ -10,9 +10,19 @@ __Main File__
 
 __GP Function Files__
 
-"GPRPredRQ.m" GP Predict Function based on Rational quadratic kernel function.
+"GPRPredRQ.m" 
 
-"GPRPredMatern.m" GP Predict Function based on Matérn kernel function. You also need to assign aother parameter(1,3,5,7).
+GP Predict Function based on Rational quadratic kernel function.
+
+"GPRPredMatern.m" 
+
+GP Predict Function based on Matérn kernel function. You also need to assign aother parameter(1,3,5,7).
+
+__Nodel Files__
+
+"MPC_CpxModelling.m" 
+
+Complicated snake robot model file which constructed in folder "ComplicatedModel".
 
 __Other Files__
 
