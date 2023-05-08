@@ -18,7 +18,7 @@ GP Predict Function based on Rational quadratic kernel function.
 
 GP Predict Function based on Matérn kernel function. You also need to assign aother         parameter(1,3,5,7).
 
-__Nodel Files__
+__Model Files__
 
 "MPC_CpxModelling.m" 
 
