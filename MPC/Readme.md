@@ -12,6 +12,13 @@ __GP Function Files__
 
 "GPRPredMatern.m"  GP Predict Function based on Matérn kernel function. You also need to assign aother parameter(1,3,5,7).
 
+__Model Files__
+
+"MPC_CpxModelling.m"
+
+Complicated snake robot model file which constructed in folder "ComplicatedModel".
+
+
 __Fitrgp Files__
 
 "ObjFunc.m"
