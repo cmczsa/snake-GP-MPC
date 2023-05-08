@@ -6,13 +6,13 @@ __Main File__
 
 "MPCPred.m".
 
-__GP Function files
+__GP Function files__
 
 "GPRPredRQ.m"  GP Predict Function based on Rational quadratic kernel function. 
 
 "GPRPredMatern.m"  GP Predict Function based on Matérn kernel function. You also need to assign aother parameter(1,3,5,7).
 
-__Fitrgp files
+__Fitrgp files__
 
 "ObjFunc.m"
 
