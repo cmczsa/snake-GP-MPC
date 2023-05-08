@@ -12,11 +12,11 @@ Based on complicated snake model. Reference to the paper and books below.
 
 # Files
 
-__Main File__
+__1. Main File__
 
 "USRModeling.m"
 
-__Custom Function Files__
+__2. Custom Function Files__
 
 "SolveThetaN.m" ---- Kinetics
 
@@ -26,6 +26,6 @@ __Custom Function Files__
 
 "MPC_CpxModelling.m" ---- Convert "USRModeling.m" to a custom function
 
-__.xlsx Files__
+__3. .xlsx Files__
 
 Save datasets.
