@@ -35,4 +35,4 @@ __5. Other Files__
 
 # More MPC Examples
 
-If you want to learn more examples about casADi and MPC, please browse my another repository "".
+If you want to learn more examples about casADi and MPC, please browse another repository "Snake-EMPC-casADI".
