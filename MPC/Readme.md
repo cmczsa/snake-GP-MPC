@@ -6,18 +6,18 @@ __Main File__
 
 "MPCPred.m".
 
-__GP Function files__
+__GP Function Files__
 
 "GPRPredRQ.m"  GP Predict Function based on Rational quadratic kernel function. 
 
 "GPRPredMatern.m"  GP Predict Function based on Matérn kernel function. You also need to assign aother parameter(1,3,5,7).
 
-__Fitrgp files__
+__Fitrgp Files__
 
 "ObjFunc.m"
 
 "NonLinearCons.m"
 
-__other files__
+__Other Files__
 
 .mat and .xlsx files are the trained models and the computed data.
