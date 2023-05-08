@@ -4,15 +4,16 @@ GPML toolbox is used in this project. You can install it on  http://gaussianproc
 
 We also used fitrgp function in Matlab, while it can't be customed. 
 
-__Main Files__
+__Main File__
 
-"GPR.m"
+"GPR.m".
 
-__GP Predict Function Files__
+__GP Function Files__
 
-"GPRPredRQ.m"
-"GPRPredMatern.m" 
+"GPRPredRQ.m" GP Predict Function based on Rational quadratic kernel function.
+
+"GPRPredMatern.m" GP Predict Function based on Matérn kernel function. You also need to assign aother parameter(1,3,5,7).
 
 __Other Files__
 
-.xlsx and .mat files are 
+.mat and .xlsx files are the trained models and the computed data.
