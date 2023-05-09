@@ -13,4 +13,4 @@ For more details, please read "Readme.md" in each folder.
 
 # More MPC Examples 
 
-If you want to learn more examples about casADi and MPC, please browse another repository "Snake-EMPC-casADI".
+If you want to learn more examples about casADi and MPC, please browse my another repository "Snake-EMPC-casADI".
